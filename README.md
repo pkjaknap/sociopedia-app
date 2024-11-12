@@ -94,6 +94,4 @@ Please refer to the project's documentation or README files for detailed instruc
 
 Contributions to the Sociopedia project are welcome! If you find any issues, have feature suggestions, or would like to contribute code improvements, please refer to the project's GitHub repository for guidelines on how to contribute.
 
-## License
 
-The Sociopedia project is released under the [MIT License](LICENSE).
